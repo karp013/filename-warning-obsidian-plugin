@@ -1,0 +1,11 @@
+{
+	"id": "filename-warning",
+	"name": "filename-warning",
+	"version": "1.0",
+	"minAppVersion": "1.9.12",
+	"description": "Habr stronk",
+	"author": "askepit",
+	"authorUrl": "",
+	"helpUrl": "",
+	"isDesktopOnly": false
+}
